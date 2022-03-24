@@ -1,0 +1,41 @@
+.text-white:hover{
+    transform: scale(1.1);
+	transition: .3s;
+    color: aqua;
+}
+.card shadow-sm{
+    background-image: url("https://www.freepik.com/free-vector/gradient-network-connection-background_12643219.htm#query=digital&position=4&from_view=search");
+    background-color: #cccccc;
+}
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+  
+  #change_it:hover{     
+      color:cyan;
+      transition: 1.2s;
+  }
+  .SAS{
+      /* background-image: url("https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg?t=st=1647877881~exp=1647878481~hmac=f7e4d7933f86e39223744296fe69af086b6be3491b9bb61161b38d8a8682ced5&w=1060"); */
+      background-color: aqua;
+  }
+  .bgimg{
+      width: 102%;
+      height: auto;
+      
+  }
+  .heading {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+    color: #111;
+    text-transform: uppercase;
+}
